@@ -1,3 +1,3 @@
-# XAS_device_tree
+# device_sony_hikari
 
-This is the Device Tree for Xperia Acro S.
+Device Tree for Xperia Acro S.
